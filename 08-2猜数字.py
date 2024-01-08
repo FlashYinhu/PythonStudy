@@ -3,7 +3,7 @@
 # E-mail : kangyinhunnu@gmail.com
 # Date : 2024/1/8 19:39
 import random
-num = random.randint(1,10)
+num = random.randint(1, 10)
 print(num)
 
 guessnum = int(input("Your num(1~10):\n"))
