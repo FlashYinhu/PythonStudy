@@ -46,12 +46,3 @@ print(name)
 for i in range(len(name)):
     j = -i - 1
     print(name[j], end='')
-
-
-"""
-    在python中，如果将函数定义为class类的成员，则称该函数为方法
-    方法和函数功能一样，都有传入参数和返回值，只是方法的使用格式不同
-    方法的使用：
-        kangyinhu = Kangyinhu()
-        num = kangyinhu.info(name)
-"""
