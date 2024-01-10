@@ -7,7 +7,7 @@ money = 5000000
 name = None
 name = input("PLEASE INPUT YOUR NAME:\n")
 
-
+基础部分
 # 查询
 def query(show_header):
     if show_header:
