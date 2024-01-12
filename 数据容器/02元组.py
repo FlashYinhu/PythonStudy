@@ -21,3 +21,4 @@ print(f't5的内容是{t5}, 类型是{type(t5)}')
 t6 = ('kangyinhu', ('xiaolei', 'zzz'))
 print(f't6的内容是{t6}, 类型是{type(t6)}')
 
+print("kangyinhu")
