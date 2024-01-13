@@ -18,7 +18,11 @@ t4 = ('kangyinhu')
 print(f't4的内容是{t4}, 类型是{type(t4)}')
 t5 = ('kangyinhu', )
 print(f't5的内容是{t5}, 类型是{type(t5)}')
+
+# 元组的嵌套
 t6 = ('kangyinhu', ('xiaolei', 'zzz'))
 print(f't6的内容是{t6}, 类型是{type(t6)}')
 
-print("kangyinhu")
+# 通过下标索引取出内容
+
+
