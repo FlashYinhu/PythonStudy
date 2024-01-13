@@ -24,5 +24,5 @@ t6 = ('kangyinhu', ('xiaolei', 'zzz'))
 print(f't6的内容是{t6}, 类型是{type(t6)}')
 
 # 通过下标索引取出内容
-
+# 为什么intel macbook pycharm 会卡顿
 
